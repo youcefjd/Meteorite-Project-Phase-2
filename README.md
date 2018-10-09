@@ -20,4 +20,4 @@ Steps:
 6. Can you make a scatterplot?
 7. Can you make a time-series plot?
 
-#### The visualization process can be found on a separate .py file. Along with an explanation on a pdf file.
+#### The visualization process can be found on a separate Jupyter Notebook file. Along with an explanation on a pdf file.
